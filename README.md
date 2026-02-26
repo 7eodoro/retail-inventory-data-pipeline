@@ -1,6 +1,6 @@
 DATE: 2026/02/23
 # Retail Inventory Analytics & API Data Pipeline
-Description: Automated API inventory pipeline for Webhallen.com GPU stock. Identifies trapped capital in uncompetitive 8GB units and maps retail price-to-performance gaps. Analyzes inventory bulges in the RTX 50-series to pinpoint structural risk.
+Automated API inventory pipeline for Webhallen.com GPU stock. Identifies trapped capital in uncompetitive 8GB units and maps retail price-to-performance gaps. Analyzes inventory bulges in the RTX 50-series to pinpoint structural risk.
 
 ## Project
 This project evaluates the inventory health, pricing efficiency, and market positioning of Webhallen, a major Swedish electronics retailer. By building an automated, API-first data extraction pipeline, I gathered a complete snapshot of their GPU inventory (as of 2026/02/22). 
